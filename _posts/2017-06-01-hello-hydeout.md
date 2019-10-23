@@ -2,6 +2,7 @@
 layout: post
 title: Hello
 excerpt_separator:  <!--more-->
+comments: true
 ---
 
 This is my very first post.
