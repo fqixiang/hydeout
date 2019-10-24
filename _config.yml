@@ -28,10 +28,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   
-footer-links: 
-  email: q.fang@uu.nl
-  linkedin: https://www.linkedin.com/in/fqixiang/
-
 # Sidebar link settings
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
