@@ -6,7 +6,7 @@ highlighter:      rouge
 # Setup
 title:            Qixiang Fang
 tagline:          'A Blog'
-description:      'PhD Candidate in Learning Analytics'
+description:      'PhD Candidate in Statistics & NLP'
 url:              https://fqixiang.github.io
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
