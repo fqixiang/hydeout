@@ -11,4 +11,4 @@ van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, 
 ### Accepted
 Sosnovsky, S., **Fang, Q.**, De Vries, B., Luehof, S., & Wiegant, F. (in press). *Towards Adaptive Social Comparison for Education: 15th European Conference on Technology Enhanced Learning, EC-TEL 2020, virtual, September 14–18, 2020*.
 
-Arts, I., Fang, Q., Van de Schoot, R., Meitinger, K.. Measurement Invariance: A Vizualisation of MGCFA, Alignment and Approximate MI with Different Priors. Abstract accepted at *[Frontiers in Psychology - Quantitative Psychology and Measurement](https://www.frontiersin.org/journals/psychology/sections/quantitative-psychology-and-measurement#)*. Full manuscript in preparation. 
+Arts, I., Fang, Q., Van de Schoot, R., & Meitinger, K.. Measurement Invariance: A Vizualisation of MGCFA, Alignment and Approximate MI with Different Priors. Abstract accepted at *[Frontiers in Psychology - Quantitative Psychology and Measurement](https://www.frontiersin.org/journals/psychology/sections/quantitative-psychology-and-measurement#)*. Full manuscript in preparation. 
